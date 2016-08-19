@@ -1,0 +1,6 @@
+framework module Pods_pokedex_by_frenchtastic {
+  umbrella header "Pods-pokedex-by-frenchtastic-umbrella.h"
+
+  export *
+  module * { export * }
+}
